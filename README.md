@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vattikonda Tanvi
-- 👀 I’m interested in 
+- 👀 I’m interested in developing new skills
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web development, Machine Learning Projects
 - 📫 Mail: tanvivattikonda@gmail.com
